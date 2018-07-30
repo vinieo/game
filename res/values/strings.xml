@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">猜小球</string>
+    <string name="action_settings">Settings</string>
+    <string name="cup">猜猜小球在哪个杯子里？</string>
+    <string name="again">再玩一次</string>
+
+</resources>
